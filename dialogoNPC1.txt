@@ -1,3 +1,4 @@
 hola viajero
 estas seguro que quieres entrar a la cueva?
 cosas malas pueden pasar
+["dialogoNPC-SI"]
