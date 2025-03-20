@@ -1,0 +1,7 @@
+Lo que esta pasando es un colapso de creación simultanea
+
+cada Branch modifico el archivo que contenía el MAIN que es el archivo dialogoNPC1 
+
+uno le mando el comando [dialogoNPC-SI] y otro el [dialogoNPC-NO]
+
+y a la hora de hacer el MERGE ocasiono que tomemos una decisión al respecto. 
